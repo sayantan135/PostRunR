@@ -78,10 +78,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-## Roadmap
-
-See the [open issues](https://github.com/sayantan135/PostRunR/issues) for a list of proposed features (and known issues).
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
